@@ -2,7 +2,7 @@
   "name": "Twitter For Hipster",
   "short_name": "TwitterHipster",
   "description": "Removes anything that's too popular from your timeline",
-  "version": "0.01",
+  "version": "1.0",
   "manifest_version": 2,
   "permissions": ["activeTab", "storage"],
   "content_scripts": [
