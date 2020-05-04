@@ -10,7 +10,7 @@ Here's a comparison. Notice how there is that super overused distracted boyfrien
 
 ![screenshot](./screenshot.gif)
 
-It's not perfect. If somebody retweets something really popular, but adds their own dumb little inoccuous comment to it then, yeah, that'll still show up.
+It's not perfect. If somebody retweets something really popular, but adds their own little innocuous comment to it then, yeah, that'll still show up.
 
 ## Installation
 
@@ -28,7 +28,7 @@ Or for more tech hipster cred, you can also install it the very manual way too. 
 
 I forked this project from [Thomas Wang](https://twitter.com/ThomasWang)'s [Minimal Theme](https://github.com/thomaswang/minimal-twitter). His add-on minimalizes my Twitter experience and is also an essential twitter add-on for any good hipster on Twitter.
 
-This is just my personal hipterization, but I'm open to extensions that remove more of the middle of the road, easily digestible content from my timeline.
+This is just my personal hipsterization, but I'm open to extensions that remove more of the middle of the road, easily digestible content from my timeline.
 
 ## Support the original Minimal Twitter project!
 
