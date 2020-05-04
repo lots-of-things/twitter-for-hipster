@@ -12,19 +12,22 @@ It's not perfect. If somebody retweets something really popular, but adds their 
 
 ## Installation
 
-I haven't put this on the firefox or chrome webstores yet, (I'm a hipster, remember, I can't even be bothered). But it can still be installed on Firefox and Chrome manually if you want to try it out.
+I haven't put this on the official firefox or chrome webstores yet (remeber that I'm a hipster so I really can't even be bothered). But it can still be installed on Firefox from this link.
 
-  - [How to load extensions into Chrome locally](https://developer.chrome.com/extensions/getstarted#manifest)
-- [Firefox Add-ons Documentation](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons)
-  - [How to load add-ons into Firefox locally](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Temporary_Installation_in_Firefox)
+[Install add-on](https://github.com/lots-of-things/twitter-for-hipster/blob/master/twitter_for_hipster-1.0-fx.xpi?raw=true)
+
+Or you can also install it the very manual way too.
+
+- [How to load extensions into Chrome locally](https://developer.chrome.com/extensions/getstarted#manifest)
+- [How to load add-ons into Firefox locally](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Temporary_Installation_in_Firefox)
 
 
 ## Developing
 
 I based this project off [Thomas Wang](https://twitter.com/ThomasWang)'s [Minimal Theme](https://github.com/thomaswang/minimal-twitter), which minimalizes my Twitter experience and is also an essential twitter add-on for any good hipster on Twitter.
 
-This is just my personal hipterization, but I'm open to extensions that remove all the banal stuff from my timeline.
+This is just my personal hipterization, but I'm open to extensions that remove more of the middle of the road, easily digestible content from my timeline.
 
 ## Support the original Minimal Twitter project!
 
-I figured out how to make this by looking at [Thomas Wang](https://twitter.com/ThomasWang)'s [Minimal Theme](https://github.com/thomaswang/minimal-twitter).  If you found this project useful, consider supporting him on [GitHub Sponsors](https://github.com/sponsors/thomaswangio) :)
+I'm way too cool to need any support.  But I figured out how to make this by looking at [Thomas Wang](https://twitter.com/ThomasWang)'s [Minimal Theme](https://github.com/thomaswang/minimal-twitter).  If you found this project useful, consider supporting Thomas on [GitHub Sponsors](https://github.com/sponsors/thomaswangio) :)
