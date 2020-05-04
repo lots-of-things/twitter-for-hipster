@@ -14,7 +14,7 @@ It's not perfect. If somebody retweets something really popular, but adds their 
 
 I haven't put this on the official firefox or chrome webstores yet (remeber that I'm a hipster so I really can't even be bothered). But it can still be installed on Firefox from this link.
 
-[Install add-on](https://github.com/lots-of-things/twitter-for-hipster/blob/master/twitter_for_hipster-1.0-fx.xpi?raw=true)
+[Install add-on](https://lots-of-things.github.io/twitter-for-hipster/twitter_for_hipster-1.0-fx.xpi)
 
 Or you can also install it the very manual way too.
 
