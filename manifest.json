@@ -1,0 +1,17 @@
+{
+  "name": "Twitter For Hipster",
+  "short_name": "TwitterHipster",
+  "description": "Removes anything that's too popular from your timeline",
+  "version": "0.01",
+  "manifest_version": 2,
+  "permissions": ["activeTab", "storage"],
+  "content_scripts": [
+    {
+      "js": ["removePopular.js"],
+      "matches": ["https://twitter.com/*", "https://mobile.twitter.com/*"]
+    }
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  }
+}
